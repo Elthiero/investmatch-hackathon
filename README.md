@@ -46,7 +46,7 @@ First, initialise the database and import the tool data:
 
 ```bash
 python admin.py --init
-python admin.py --load list_of_tools_data.json
+python admin.py --load list_of_tools.json
 ```
 
 Verify the import:
