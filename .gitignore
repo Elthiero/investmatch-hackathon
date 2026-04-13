@@ -16,7 +16,7 @@ ENV/
 *.swo
 
 # Database files
-*.db
+#*.db
 *.sqlite
 *.sqlite3
 
@@ -47,3 +47,7 @@ Thumbs.db
 # Backup files
 *.bak
 *.tmp
+
+# Directories and files to ignore
+ideas/
+arf.json
